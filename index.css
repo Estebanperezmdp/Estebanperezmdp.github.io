@@ -1,0 +1,60 @@
+img{
+   width: 15%;
+   height: 15%;
+   border: 2px solid red; 
+   margin-bottom: 20px;
+}
+
+h1{
+   padding: 20px;
+   text-align: center;
+   color: red;
+   text-shadow:15px 15px 15px    rgb(216, 175, 175);
+   font-family: sans-serif;
+
+}
+#encabezado{
+   background: black;
+}
+#div-imagen{
+
+   padding: 20px;
+   display: flex; 
+   justify-content: center;
+
+}
+
+
+.cajitas{
+   width: 15px;
+   height: 15px;
+   background-color: brown;
+}
+#div-contenedor{
+
+  background-color: rgb(32, 2, 2);
+  padding: 20px;
+
+}
+
+#uno{
+   margin:auto;
+   margin-top: 10px;
+   margin-bottom: 10px;
+
+}
+#dos{
+   margin: auto;
+   margin-top: 10px;
+   margin-bottom: 10px;
+
+}
+#tres{
+   margin: auto;
+   margin-top: 10px;
+   margin-bottom: 10px;
+
+}
+
+
+
